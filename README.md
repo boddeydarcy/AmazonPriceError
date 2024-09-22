@@ -1,1 +1,1 @@
-# AmazonPriceError
+# Amazon Price Error Finder
